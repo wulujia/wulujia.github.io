@@ -1,1 +1,1 @@
-# diary.wulujia.com
+# wulujia.github.io
